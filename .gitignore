@@ -120,3 +120,5 @@ app.*.symbols
 
 #Folders
 mp1-munishpatel/images/.DS_Store
+mp2-munishpatel/assets/.DS_Store
+mp2-munishpatel/assets/images/.DS_Store
